@@ -77,6 +77,8 @@ This technique ensures stealth by covering tracks during the execution process.
 4. **Self-Deleting Batch Execution:**  
    - Use batch scripts that delete themselves after execution to minimize traces.
 
+https://github.com/user-attachments/assets/fa2b801c-5fcd-4e91-8c5f-376b1f88e068
+
 ---
 
 ⚠️ ⚠️ ⚠️ As the video shown, the code is a bit noisy since it pops up some console with some lines. This is easy too handle just by an argument but I'm too lazy to do just a change and retest it again!
