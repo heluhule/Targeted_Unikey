@@ -81,5 +81,4 @@ https://github.com/user-attachments/assets/fa2b801c-5fcd-4e91-8c5f-376b1f88e068
 
 ---
 
-⚠️ ⚠️ ⚠️ As the video shown, the code is a bit noisy since it pops up some console with some lines. This is easy too handle just by an argument but I'm too lazy to do just a change and retest it again!
-
+⚠️ ⚠️ ⚠️ As the video shown, the code is a bit noisy since it pops up some console with some lines. This is easy too handle just by an argument but I'm too lazy to do just a change and retest it again! What's more, the C file is also not really necessary, but writing stuff in ASM takes too long so I just decided to write C or Python for the last part...
